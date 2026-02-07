@@ -1,0 +1,23 @@
+﻿# Visual Studio & C++ build output
+.vs/
+*.user
+*.ipdb
+*.pdb
+*.idb
+*.tlog/
+*.log
+*.obj
+*.exe.recipe
+
+# Local build folders
+/**/Debug/
+/**/Release/
+/**/x64/
+/**/x86/
+build/
+bin/
+
+# Generated files
+*.VC.db
+*.VC.VC.opendb
+.vscode/
